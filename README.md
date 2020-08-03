@@ -1,1 +1,1 @@
-golang api rest using hte fast router gowww
+golang api rest using the fast router gowww
